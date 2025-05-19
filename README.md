@@ -10,12 +10,17 @@ I am a licensed Civil Engineer<br>I am currently exploring various Civil Enginee
 
 # Websites
 [Modified Snake Game](https://patricksevilla.github.io/CEmulation-cfp/subject/snake/)<br>
-[Vector Visualization](https://patricksevilla.github.io/CEmulation-cfp/subject/vector/)
+[Vector Visualization](https://patricksevilla.github.io/CEmulation-cfp/subject/vector/)<br>
+[Visualization of Formula of Area of Circle](https://patricksevilla.github.io/public/Formula-of-Area-of-Circle-Visuals/)
+
 ## Fourier Series Art Application 
-<br>
-As Soon as the websites open, press anywhere for the project to render
-<br>
-[Art 1](https://patricksevilla.github.io/public/chelsea%20v2/) | [Art 2](https://patricksevilla.github.io/public/dongsaeng/)  | [Art 3](https://patricksevilla.github.io/public/preciout/) |
+- [Art 1](https://patricksevilla.github.io/public/chelsea%20v2/)
+- [Art 2](https://patricksevilla.github.io/public/dongsaeng/)
+- [Art 3](https://patricksevilla.github.io/public/preciout/)
+
+## Main Fourier Series Project
+- [Fourier Series](https://editor.p5js.org/hehhehajksda/full/Ge87PyCB)
+
 
 
 
