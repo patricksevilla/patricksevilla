@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a licensed Civil Engineer<br>I am currently exploring various Civil Engineering Software<br>I am interested in front end development<br>I am interested in graphics, animations, and even games using code<br>I used to work on  audio-visual pieces, interactive art installations, and generative designs. 
+I am interested in front end development<br>I am interested in graphics, animations, and even games using code<br>I used to work on  audio-visual pieces, interactive art installations, and generative designs. 
 
 
 ## 🌐 Socials:
