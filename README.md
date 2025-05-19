@@ -10,10 +10,11 @@ I am a licensed Civil Engineer<br>I am currently exploring various Civil Enginee
 
 # Websites
 [Modified Snake Game](https://patricksevilla.github.io/CEmulation-cfp/subject/snake/)<br>
-[Sine and Cosine Visual Representation](https://patricksevilla.github.io/public/Sine-and-Cosine-using-Epicycle-version-2/)<br>
+[Sine and Cosine Visual Representation](https://patricksevilla.github.io/public/snake_2025_05_19_13_48_24/)<br>
 [Visualization of Formula of Area of Circle](https://patricksevilla.github.io/public/Formula-of-Area-of-Circle-Visuals/)<br>
 [Times Table Visualization](https://patricksevilla.github.io/public/Times-Table/)<br>
 [Vector Visualization](https://patricksevilla.github.io/CEmulation-cfp/subject/vector/)
+[Quiz Game](https://patricksevilla.github.io/CEmulation-cfp/)
 
 ## Fourier Series Art Application 
 <br> As soon as the website load, press anywhere to render the visual
