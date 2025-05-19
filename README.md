@@ -14,6 +14,7 @@ I am a licensed Civil Engineer<br>I am currently exploring various Civil Enginee
 [Visualization of Formula of Area of Circle](https://patricksevilla.github.io/public/Formula-of-Area-of-Circle-Visuals/)
 
 ## Fourier Series Art Application 
+<br> As soon as the website load, press anywhere to render the visual
 - [Art 1](https://patricksevilla.github.io/public/chelsea%20v2/)
 - [Art 2](https://patricksevilla.github.io/public/dongsaeng/)
 - [Art 3](https://patricksevilla.github.io/public/preciout/)
