@@ -11,9 +11,11 @@ I am a licensed Civil Engineer<br>I am currently exploring various Civil Enginee
 # Websites
 [Modified Snake Game](https://patricksevilla.github.io/CEmulation-cfp/subject/snake/)<br>
 [Vector Visualization](https://patricksevilla.github.io/CEmulation-cfp/subject/vector/)
+## Fourier Series Art Application 
+<br>
+As Soon as the websites open, press anywhere for the project to render
+<br>
+[Art 1](https://patricksevilla.github.io/public/chelsea%20v2/) | [Art 2](https://patricksevilla.github.io/public/dongsaeng/)  | [Art 3](https://patricksevilla.github.io/public/preciout/) |
 
 
----
-[![](https://visitcount.itsvg.in/api?id=patricksevilla&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
